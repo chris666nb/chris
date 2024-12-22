@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Latest updates and news on the Russia-Ukraine war, sourced from reputable outlets.">
+    <meta name="keywords" content="Russia, Ukraine, war, news, updates">
+    <meta name="author" content="Your Name">
+    <title>Russia-Ukraine War Updates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .news-item {
+            margin-bottom: 2rem;
+        }
+        .news-item h2 {
+            margin-bottom: 0.5rem;
+            color: #2980b9;
+        }
+        .news-item p {
+            line-height: 1.6;
+        }
+        .news-item a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        .news-item a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            margin-top: 2rem;
+            padding: 1rem 0;
+            background-color: #2c3e50;
+            color: #fff;
+        }
+        .footer-links a {
+            color: #fff;
+            margin: 0 0.5rem;
+            text-decoration: none;
+        }
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Russia-Ukraine War: Latest Updates</h1>
+    </header>
+
+    <div class="container">
+        <div class="news-item">
+            <h2>Headline 1: Ceasefire Negotiations Continue</h2>
+            <p>On March 15, significant developments occurred as representatives from both Russia and Ukraine engaged in further peace talks. These discussions aimed to establish a ceasefire and address humanitarian concerns.</p>
+            <p><a href="https://www.example.com/news1" target="_blank">Read more</a></p>
+        </div>
+
+        <div class="news-item">
+            <h2>Headline 2: Humanitarian Crisis Escalates</h2>
+            <p>The ongoing conflict has led to a severe humanitarian crisis, with millions displaced and in need of urgent aid. International organizations are stepping up efforts to provide assistance.</p>
+            <p><a href="https://www.example.com/news2" target="_blank">Read more</a></p>
+        </div>
+
+        <div class="news-item">
+            <h2>Headline 3: Global Reactions to the Conflict</h2>
+            <p>Countries worldwide have responded to the conflict with sanctions, diplomatic efforts, and calls for peace. The geopolitical impact continues to unfold.</p>
+            <p><a href="https://www.example.com/news3" target="_blank">Read more</a></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Disclaimer: All information is sourced from reputable outlets. Stay informed and verify facts independently.</p>
+        <div class="footer-links">
+            <a href="https://www.example.com/about" target="_blank">About Us</a>
+            <a href="https://www.example.com/contact" target="_blank">Contact</a>
+            <a href="https://www.example.com/privacy" target="_blank">Privacy Policy</a>
+        </div>
+    </footer>
+</body>
+</html>
